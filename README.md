@@ -99,6 +99,23 @@ I will tell you why you need JSON RPC and why I created another library. I'll sh
 
 # 2018
 
+## Information Security Practice?
+
+**Description:**
+
+This will be 8 live demo hacking. We will not analyze the theory, but we will see in practice how small and not always obvious errors lead to global vulnerabilities in your JavaScript application.
+
+**Presented at:** 
+
+* [KharkivJS 2018](https://kharkivjs.org/) October 6-7
+
+**Content:**
+
+* [Video](https://www.youtube.com/watch?v=kwPELSlAbdw)
+* [Slides](https://www.slideshare.net/koorchik/kharkivjs-2018-information-security-practice)  
+
+-----------------------------------------------------------------------------------------------------------------
+
 ## How to create a VR application with React 360.
 
 **Description:**
